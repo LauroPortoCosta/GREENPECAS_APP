@@ -9,4 +9,5 @@ git remote add origin git@github.com:LauroPortoCosta/GREENPECAS_APP.git
 git push -u origin main
 git checkout -b cor_da_palavr -> adiciona uma valora a branch
 git pull
-vou criar uma nova branch com o git checkout -b 
+vou criar uma nova branch com o git checkout -b cria_help
+git checkout main ( volta imediatamente para a branch main)
